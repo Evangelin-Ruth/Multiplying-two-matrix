@@ -1,7 +1,7 @@
 # Multiplying-two-matrix
 
 ## AIM:
-
+To write a program to perform Multiplying-two-matrix using python programming.
 
 ## ALGORITHM:
 ### Step 1:
@@ -34,4 +34,4 @@ print('Product of two arrays is:', product)
 
 
 ## RESULT:
-
+Thus the program is written to perform Multiplying-two-matrix using python programming.
