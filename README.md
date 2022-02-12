@@ -30,6 +30,8 @@ product=array_1*array_2
 print('Product of two arrays is:', product) 
 ```
 ## OUTPUT:
+![multiplying two array](https://user-images.githubusercontent.com/94219798/153697534-5bb492ce-2cf1-4582-b5db-3ecb518dbe10.JPG)
+
 
 ## RESULT:
 
