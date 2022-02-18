@@ -7,14 +7,13 @@ To write a program to perform Multiplying-two-matrix using python programming.
 ### Step 1:
 Import Numpy module as np.
 ### Step 2:
-Create empty lists.
+Get input from the user.
 ### Step 3:
-Get input from the user for number of rows and columns.
+Create empty lists l1 and l2.
 ### Step 4:
-Use nested lists to append list.
+Use for loop to append the values into the list created.
 ### Step 5:
-Print the inverse of the array using np.linalg.inv
-
+Print the product of two arrays.
 ## PROGRAM: 
 ```
 To write a python program for multiplying two matrix.
