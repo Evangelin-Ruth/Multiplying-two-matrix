@@ -17,17 +17,20 @@ Print the inverse of the array using np.linalg.inv
 
 ## PROGRAM: 
 ```
+To write a python program for multiplying two matrix.
+Developed by: Evangelin.S
+Register no: 212221230025
 import numpy as np
-l1, l2=[],[]
-n=int(input())
-for I in range(n):
-    l1. append(int(input()))
-for j in range(n):
-    l2. append(int(input()))
-array_1=np.array(l1)
-array_2=np.array(l2)
-product=array_1*array_2
-print('Product of two arrays is:', product) 
+x = int(input())
+l1 =[]
+l2 =[]
+for i in range(x):
+    l1.append(int(input()))
+for i in range(x):
+    l2.append(int(input()))
+arr1 = np.array(l1)
+arr2 = np.array(l2)
+print("Product of two arrays is:",arr1*arr2)
 ```
 ## OUTPUT:
 ![multiplying two array](https://user-images.githubusercontent.com/94219798/153697534-5bb492ce-2cf1-4582-b5db-3ecb518dbe10.JPG)
